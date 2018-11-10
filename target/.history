@@ -1,0 +1,11 @@
+run
+2
+2;
+runMain
+runMain 1
+runMain [2]
+exit
+AT_APIs
+sbt run
+clean
+sbt build
